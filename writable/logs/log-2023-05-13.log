@@ -1,0 +1,82 @@
+CRITICAL - 2023-05-13 06:15:19 --> Class 'App\Models\KaryawanModel' not found
+in APPPATH\Controllers\Karyawan.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Karyawan->index()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Karyawan))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-05-13 06:17:33 --> Invalid file: "karyawan.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('karyawan.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('karyawan', [], true)
+ 3 APPPATH\Controllers\Karyawan.php(14): view('karyawan', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Karyawan->index()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Karyawan))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-05-13 06:17:34 --> Invalid file: "karyawan.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('karyawan.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('karyawan', [], true)
+ 3 APPPATH\Controllers\Karyawan.php(14): view('karyawan', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Karyawan->index()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Karyawan))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-05-13 06:17:49 --> Invalid file: "karyawan.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('karyawan.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('karyawan', [], true)
+ 3 APPPATH\Controllers\Karyawan.php(13): view('karyawan', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Karyawan->index()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Karyawan))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-05-13 06:18:49 --> Invalid file: "karyawan.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('karyawan.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('karyawan', [], true)
+ 3 APPPATH\Controllers\Karyawan.php(13): view('karyawan', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Karyawan->index()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Karyawan))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-05-13 06:23:22 --> Class 'App\Models\KaryawanModel' not found
+in APPPATH\Controllers\Karyawan.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Karyawan->index()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Karyawan))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-05-13 06:23:25 --> Class 'App\Models\KaryawanModel' not found
+in APPPATH\Controllers\Karyawan.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Karyawan->index()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Karyawan))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-05-13 06:24:29 --> Class 'App\Models\KaryawanModel' not found
+in APPPATH\Controllers\Karyawan.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Karyawan->index()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Karyawan))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-05-13 06:24:29 --> Class 'App\Models\KaryawanModel' not found
+in APPPATH\Controllers\Karyawan.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Karyawan->index()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Karyawan))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-05-13 06:38:32 --> Class 'App\Models\KaryawanModel' not found
+in APPPATH\Controllers\Karyawan.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Karyawan->index()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Karyawan))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
